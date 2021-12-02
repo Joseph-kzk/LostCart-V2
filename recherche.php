@@ -61,82 +61,112 @@
 						</div>
 
 
-						<div class="search-item-container">
+                        <div class="row gx-2">
 
-                            <div class="row">
+                            <div class="col-lg-2 col-md-4 col-sm-6">
 
-                                <div class="col-lg-3 col-md-4 col-sm-6">
-
-                                    <div class="item item-thumbnail">
-                                        <a href="product_detail.html" class="item-image">
-                                            <img src="assets/img/card3.png" alt="" />
-                                            <div class="discount">CNI</div>
-                                        </a>
-                                        <div class="item-info">
-                                            <h4 class="item-title">
-                                                <a href="product_detail.html">KAMZOK Joseph Junior</a>
-                                            </h4>
-                                            <p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
-                                        </div>
+                                <div class="item item-thumbnail">
+                                    <a href="details.php" class="item-image">
+                                        <img src="assets/img/card3.png" alt="" />
+                                        <div class="discount">CNI</div>
+                                    </a>
+                                    <div class="item-info">
+                                        <h4 class="item-title">
+                                            <a href="details.php">KAMZOK Joseph Junior</a>
+                                        </h4>
+                                        <p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
                                     </div>
-
                                 </div>
 
+                            </div>
 
-                                <div class="col-lg-3 col-md-4 col-sm-6">
 
-                                    <div class="item item-thumbnail">
-                                        <a href="product_detail.html" class="item-image">
-                                            <img src="assets/img/card3.png" alt="" />
-                                            <div class="discount">PASSEPORT</div>
-                                        </a>
-                                        <div class="item-info">
-                                            <h4 class="item-title">
-                                                <a href="product_detail.html">KAMZOK Joseph Junior</a>
-                                            </h4>
-                                            <p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
-                                        </div>
+                            <div class="col-lg-2 col-md-4 col-sm-6">
+
+                                <div class="item item-thumbnail">
+                                    <a href="details.php" class="item-image">
+                                        <img src="assets/img/card3.png" alt="" />
+                                        <div class="discount">PASSEPORT</div>
+                                    </a>
+                                    <div class="item-info">
+                                        <h4 class="item-title">
+                                            <a href="details.php">KAMZOK Joseph Junior</a>
+                                        </h4>
+                                        <p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
                                     </div>
-
                                 </div>
 
+                            </div>
 
-                                <div class="col-lg-3 col-md-4 col-sm-6">
 
-                                    <div class="item item-thumbnail">
-                                        <a href="product_detail.html" class="item-image">
-                                            <img src="assets/img/card3.png" alt="" />
-                                            <div class="discount">CARTE BANCAIRE</div>
-                                        </a>
-                                        <div class="item-info">
-                                            <h4 class="item-title">
-                                                <a href="product_detail.html">KAMZOK Joseph Junior</a>
-                                            </h4>
-                                            <p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
-                                        </div>
+                            <div class="col-lg-2 col-md-4 col-sm-6">
+
+                                <div class="item item-thumbnail">
+                                    <a href="details.php" class="item-image">
+                                        <img src="assets/img/card3.png" alt="" />
+                                        <div class="discount">CARTE BANCAIRE</div>
+                                    </a>
+                                    <div class="item-info">
+                                        <h4 class="item-title">
+                                            <a href="details.php">KAMZOK Joseph Junior</a>
+                                        </h4>
+                                        <p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
                                     </div>
-
                                 </div>
 
+                            </div>
 
-                                <div class="col-lg-3 col-md-4 col-sm-6">
 
-                                    <div class="item item-thumbnail">
-                                        <a href="product_detail.html" class="item-image">
-                                            <img src="assets/img/card3.png" alt="" />
-                                            <div class="discount">CNI</div>
-                                        </a>
-                                        <div class="item-info">
-                                            <h4 class="item-title">
-                                                <a href="product_detail.html">KAMZOK Joseph Junior</a>
-                                            </h4>
-                                            <p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
-                                        </div>
+                            <div class="col-lg-2 col-md-4 col-sm-6">
+
+                                <div class="item item-thumbnail">
+                                    <a href="details.php" class="item-image">
+                                        <img src="assets/img/card3.png" alt="" />
+                                        <div class="discount">CNI</div>
+                                    </a>
+                                    <div class="item-info">
+                                        <h4 class="item-title">
+                                            <a href="details.php">KAMZOK Joseph Junior</a>
+                                        </h4>
+                                        <p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
                                     </div>
-
                                 </div>
 
+                            </div>
 
+
+                            <div class="col-lg-2 col-md-4 col-sm-6">
+
+                                <div class="item item-thumbnail">
+                                    <a href="details.php" class="item-image">
+                                        <img src="assets/img/card3.png" alt="" />
+                                        <div class="discount">CNI</div>
+                                    </a>
+                                    <div class="item-info">
+                                        <h4 class="item-title">
+                                            <a href="details.php">KAMZOK Joseph Junior</a>
+                                        </h4>
+                                        <p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                            <div class="col-lg-2 col-md-4 col-sm-6">
+
+                                <div class="item item-thumbnail">
+                                    <a href="product_detail.html" class="item-image">
+                                        <img src="assets/img/card3.png" alt="" />
+                                        <div class="discount">CNI</div>
+                                    </a>
+                                    <div class="item-info">
+                                        <h4 class="item-title">
+                                            <a href="product_detail.html">KAMZOK Joseph Junior</a>
+                                        </h4>
+                                        <p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
+                                    </div>
+                                </div>
 
                             </div>
 

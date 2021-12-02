@@ -167,6 +167,7 @@
 					</span>
 
 				</h4>
+
 				<div class="row gx-2">
 
 					<div class="col-lg-2 col-md-4 col-sm-6">
@@ -272,6 +273,58 @@
 								</h4>
 								<p class="item-desc">3D Touch. 12MP photos. 4K video.</p>
 							</div>
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div id="milestone" class="content" data-scrollview="true" style="background-color:#0b9444;margin-top:10px;">
+
+				<div class="content-bg" style="">
+
+
+					<div class="container">
+
+						<div class="row">
+
+							<div class="col-lg-3 milestone-col">
+								<div class="milestone">
+									<div class="number" data-animation="true" data-animation-type="number"
+										data-final-number="1292">1,292</div>
+									<div class="title"><b>CNI</b> </div>
+								</div>
+							</div>
+
+
+							<div class="col-lg-3 milestone-col">
+								<div class="milestone">
+									<div class="number" data-animation="true" data-animation-type="number"
+										data-final-number="9039">9,039</div>
+									<div class="title"><b>Carte bancaire</b></div>
+								</div>
+							</div>
+
+
+							<div class="col-lg-3 milestone-col">
+								<div class="milestone">
+									<div class="number" data-animation="true" data-animation-type="number"
+										data-final-number="89291">89,291</div>
+									<div class="title"><b>Passeport</b></div>
+								</div>
+							</div>
+
+
+							<div class="col-lg-3 milestone-col">
+								<div class="milestone">
+									<div class="number" data-animation="true" data-animation-type="number"
+										data-final-number="129">129</div>
+									<div class="title"><b>Autres</b></div>
+								</div>
+							</div>
+
 						</div>
 
 					</div>

@@ -19,24 +19,24 @@
         </div>
 
 
-        <div class="header-nav">
-            <div class="collapse navbar-collapse" id="navbar-collapse">
+        <div class="header-nav" >
+            <div class="collapse navbar-collapse" id="navbar-collapse" style="margin-left:1px;">
                 <ul class="nav justify-content-center">
-                    <li class=""><a href="index.php">Accueil</a></li>
+                    <li class=""><a href="index.php"> Accueil</a></li>
 
-                    <li><a href="recherche.php">Pièces trouvés</a></li>
+                    <li><a href="recherche.php"> Pièces trouvés</a></li>
 
-                    <li><a href="declaration.php">Déclaration de perte</a></li>
+                    <li><a href="declaration.php"> Déclaration de perte</a></li>
 
                     <li class="dropdown dropdown-hover">
                         <a href="#" data-bs-toggle="dropdown">
-                            Lange
+                             Lange
                             <b class="caret"></b>
                             <span class="arrow top"></span>
                         </a>
-                        <div class="dropdown-menu">
-                            <a href="#" class="dropdown-item"><img src="assets/img/flag-up-1.png" height="30px" width="30px" alt="" />  English</a>
-                            <a href="#" class="dropdown-item"><img src="assets/img/flag-up-2.png" height="30px" width="30px"  alt="" />  Français</a>
+                        <div class="dropdown-menu" style="background-color:white">
+                            <a href="#" class="dropdown-item" style="color:black;"><img src="assets/img/flag-up-1.png" height="30px" width="30px" alt="" />  English</a>
+                            <a href="#" class="dropdown-item" style="color:black;"><img src="assets/img/flag-up-2.png" height="30px" width="30px"  alt="" />  Français</a>
                         </div>
                     </li>
 
@@ -53,7 +53,7 @@
                         <span class="total" style="background-color:#0b9444;"><b class="caret"></b></span>
                         <span class="arrow top"></span>
                     </a>
-                    <div class="dropdown-menu dropdown-menu-cart p-0">
+                    <div class="dropdown-menu dropdown-menu-cart p-0" style="background-color:white">
 
                         <div class="cart-footer">
                             <div class="row gx-2">
